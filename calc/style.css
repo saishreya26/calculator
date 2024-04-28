@@ -1,0 +1,38 @@
+.calc{
+    padding: 20px;
+    margin: 50px;
+    align-content: center;
+}
+#display{
+    padding: 10px;
+    font-size: 30px;
+    width: 300px;
+    margin-bottom: 15px;
+    height: 40px;
+    align-items: center;
+    border: solid thin rgba(255, 255, 255, 0.405);
+    color: white;
+}
+
+.btns{
+    padding: 5px;
+}
+.btn{
+    height: 60px;
+    width: 60px;
+    font-size: 40px;
+    margin: 10px;
+    align-items: center;
+    background-color: rgb(143, 143, 252);
+    color: white;
+    border-radius: 15%;
+}
+.op{
+    color: orange;
+}
+.eq{
+    color: green;
+}
+*{
+    background-color: black;
+}
